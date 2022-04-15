@@ -1,0 +1,477 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.software-developer-image {
+    height: 50vh;
+}
+
+.text-container {
+    text-align: center;
+    padding: 5px;
+}
+
+.main-heading-project {
+    font-family: bree serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.paragraph-project {
+    font-family: bree serif;
+    font-size: 15px;
+    font-weight: 500;
+    color: #183b56;
+}
+
+.websites-cover {
+    height: 20vh;
+    padding: 5px;
+    border-radius: 100px;
+
+}
+
+
+.bg-container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png);
+    height: 100vh;
+    background-size: cover;
+}
+
+.technologies-card {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+
+.main-heading {
+    color: #5752ab;
+    font-family: Bree Serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+
+
+}
+
+.button-white {
+    color: black;
+    background-color: #ffffff;
+    border-width: 1px;
+    border-color: #dedede;
+}
+
+.button-blue {
+    color: #ffffff;
+    background-color: #171f46;
+    border-width: 0px;
+
+}
+
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 30vh;
+}
+
+.welcome-text {
+    font-family: "Caveat";
+    font-size: 27px;
+    color: white;
+    width: 150px;
+    padding: 25px;
+}
+
+.diwali-bottom-section {
+    background-color: #e6f6ff;
+    padding: 5px;
+    text-align: center;
+}
+
+.diwali-card-item {
+    background-color: white;
+    text-align: center;
+    width: 100px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 20px;
+}
+
+.Diwali-card-image {
+    height: 50px;
+    width: 50px;
+}
+
+.Diwali-card-name {
+    font-size: 12px;
+    font-family: Roboto;
+    color: #616e7c;
+    margin: 5px;
+}
+
+.diwali-card-price {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-card {
+    background-color: #f6c56e;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px;
+}
+
+.main-heading-hotel-name {
+    font-family: "Bree Serif";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.paragraph-hotel {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.button-book {
+    background-color: #ffffff;
+    border-radius: 5px;
+    border-width: 0px;
+    height: 36px;
+    width: 135px;
+    font-weight: 500;
+}
+
+
+.bg-container-news {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.news-card {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 10px;
+}
+
+.news-title {
+    color: #7b8794;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.news-heading {
+    color: black;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 24px;
+}
+
+.news {
+    color: #7b8794;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.button-read-more {
+    height: 35px;
+    width: 120px;
+    color: #ffffff;
+    background-color: #323f4b;
+    border-radius: 10px;
+    border-width: 0px;
+
+}
+
+
+
+.bg-container-movie {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    height: 100vh;
+    padding: 20px;
+}
+
+.movie-heading-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.movie-name {
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ffffff;
+
+}
+
+.button-watch {
+    font-family: Roboto;
+    color: #ff8348;
+    background-color: #ffffff;
+    height: 35px;
+    width: 90px;
+    font-size: 12px;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.move-description {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 100;
+    color: #ffffff;
+    margin-top: 10px;
+}
+
+.sub-heading-movies {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.images-movies {
+    padding: 5px;
+    height: 130px;
+    width: 100px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.ipl-top-container {
+    background-color: #fb4e71;
+    padding: 20px;
+}
+
+.player-name {
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 10px;
+}
+
+.player-info {
+    font-family: Roboto;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.ipl-bottom-container {
+    background-color: #e6f6ff;
+    height: 500px;
+    padding: 10px;
+}
+
+.ipl-record-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.ipl-record-card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.ipl-record-text {
+    font-family: roboto;
+}
+
+.match-name {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 10px;
+}
+
+.match-info {
+    color: #888888;
+    font-size: 15px;
+    font-weight: normal;
+    margin: 10px;
+
+}
+
+.video-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #323f4b;
+}
+
+.sub-heading-cricket {
+    font-family: Roboto;
+    color: #323f4b;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.cricketer-video-text-container {
+    width: 135px;
+    margin: 5px;
+}
+
+.button-align {
+    text-align: center;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.covid-top-section {
+    background-size: cover;
+    padding: 10px;
+}
+
+.covid-heading {
+    font-family: Roboto;
+    font-size: 24px;
+}
+
+.corona-image {
+    height: 25%;
+    width: 25%;
+    padding: 1rem;
+    text-align: center;
+}
+
+.covid-19-test {
+    background-color: #0967d219;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.covid19-title {
+    font-family: Roboto;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.covid-info {
+    font-size: 15px;
+    padding: 5px;
+    font-weight: 500;
+}
+
+.symptoms-heading {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.symptoms-card {
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    height: 90px;
+    width: 90px;
+    margin: 10px;
+}
+
+.symptoms-card-green {
+    text-align: center;
+    background-color: #3ebd93;
+}
+
+.symptoms-card-pink {
+    text-align: center;
+    background-color: #e668a7;
+}
+
+.symptoms-card-purple {
+    text-align: center;
+    background-color: #a368fc;
+}
+
+.video-heading {
+    font-size: 20px;
+    padding: 10px;
+}
+
+.covid-bottom-card {
+    background-color: #e12d3919;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-mobile {
+    border-width: 5px;
+    border-color: #707070;
+}
+
+.mobile-image {
+    height: 50vh;
+    border-color: #707070;
+}
+
+.mobile-specification-card {
+    margin: 10px;
+}
+
+.mobile-specification-heading {
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: bold;
+    color: #0a1f44;
+    padding: 10px;
+}
+
+.unorderlist {
+    list-style-type: disc;
+}
+
+.text {
+    color: #0a1f44;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.text-space {
+    padding: 5px;
+}
+
+.button-mobile {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.mobile-back {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
